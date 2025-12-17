@@ -20,5 +20,6 @@ int main(){
     for(auto& x: arr){
         cout << x << " ";
     }
+    
     return 0;
 }
